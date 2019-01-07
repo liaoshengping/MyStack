@@ -50,6 +50,7 @@
     * nginx负载均衡
 * Linux
     * 基本命令
+    * PHP 环境，以及所需要的扩展
     * ELK 日志架构
     * rabbitMQ
     * GitLab/gitlab-runner 部署与使用
