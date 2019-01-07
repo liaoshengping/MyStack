@@ -23,10 +23,10 @@
         * 微信开发
         * DG
         * PHP爬虫(QueryList)
-* WorkMan
-       * windows环境部署/使用
-       * websocket
-       * 定时
+* WorkMan 
+   * windows环境部署,使用
+   * websocket
+   * 定时   
 * Swoole
     * tcp  
     * udp
